@@ -10,7 +10,8 @@
 
 - 🔭 I’m currently working on **building an Ecommerce website**
 
-- My portfolio link **https://sahelkumar.github.io/Resume/**
+- ![image](https://github.com/Sahelkumar/sahelkumar/assets/134678670/a77ed510-7749-4a22-8901-a0390b813036)
+ My portfolio link **https://sahelkumar.github.io/Resume/**
 
 - 🌱 I’m currently learning **ReactJS**
 
